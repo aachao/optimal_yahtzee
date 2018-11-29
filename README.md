@@ -1,5 +1,7 @@
 # optimal_yahtzee
 
+#### Alan Zhang, Aaron Chao
+
 ### Yahtzee
 
 In Yahtzee, players attempt to score the highest number of points by rolling 5 dice through 13 rounds. There are 13 categories, each with different rules for scoring, and one must be filled at the end of each round. Each round allows 3 dice rolls. After each roll, the player may choose a subset of the dice to hold or not roll for the subsequent roll.
